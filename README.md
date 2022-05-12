@@ -10,3 +10,8 @@ microposter plots are implemented in this package. For mobile eye tracker
 data, an option is provided to automatically extract the coordinates of
 where the focus points are on a poster, however, Matlab is required to be
 installed for this option.
+
+Here is the link for my PhD dissertation related to this work.
+https://www.proquest.com/openview/eee01e2545007e6c707fb1f8cbe7ab45/1?pq-origsite=gscholar&cbl=18750
+
+
